@@ -1,2 +1,3 @@
 # sihdemo
-SIH punjab water floods
+SIH Punjab water floods
+team: pran,himani,tanvi,disha,suhas
